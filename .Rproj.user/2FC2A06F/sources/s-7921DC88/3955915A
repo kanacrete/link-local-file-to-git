@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583976068881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2372060362",
+    "id" : "3955915A",
+    "lastKnownWriteTime" : 1583976089,
+    "last_content_update" : 1583976089529,
+    "path" : "~/Desktop/R programming/link local file to git/Untitled.R",
+    "project_path" : "Untitled.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
